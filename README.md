@@ -1,2 +1,2 @@
 # zf-php
-Diretório para estudo e aplicação de zend framework
+Diretório para estudo e aplicação de zend framework!
